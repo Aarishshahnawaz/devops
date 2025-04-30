@@ -25,17 +25,17 @@ const Hero = () => {
   const socialLinks = [
     {
       icon: Github,
-      href: "https://github.com/aakash-kumar-singh",
+      href: "https://github.com/Aarishshahnawaz",
       label: "GitHub Profile",
     },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/in/aakash82",
+      href: "https://www.linkedin.com/in/aarish-shahnawaz-1b7409252//",
       label: "LinkedIn Profile",
     },
     {
       icon: Mail,
-      href: "mailto:aakashkumarsingh824301@gmail.com",
+      href: "mailto:aarishaps2003@gmail.com",
       label: "Email Me",
     },
   ];
@@ -78,7 +78,7 @@ const Hero = () => {
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
               <span className="block text-slate-800 dark:text-white">Hi, I'm </span>
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-primary-400">
-                Aakash Kumar Singh
+                Aarish Shahnawaz
               </span>
             </h1>
           </motion.div>
@@ -141,14 +141,14 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.8 }}
             className="flex flex-col sm:flex-row justify-center items-center gap-4 text-slate-600 dark:text-slate-400 mb-8"
           >
-            <div>Aurangabad, Bihar 824301</div>
+            <div>Aligarh, UP 202001</div>
             <div className="hidden sm:block">•</div>
             <div>
               <a 
                 href="tel:+919835381345" 
                 className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
               >
-                +91-9835381345
+                +91-8630181113
               </a>
             </div>
           </motion.div>

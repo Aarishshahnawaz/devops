@@ -70,19 +70,19 @@ const Contact = () => {
                 <ContactMethod 
                   icon={MapPin} 
                   title="Location" 
-                  detail="Aurangabad, Bihar 824301" 
+                  detail="Aliagh, Uttar Pradesh" 
                 />
                 <ContactMethod 
                   icon={Mail} 
                   title="Email" 
-                  detail="aakashkumarsingh824301@gmail.com"
-                  link="mailto:aakashkumarsingh824301@gmail.com"
+                  detail="aarishaps2003@gmail.com"
+                  link="mailto:aarishaps2003@gmail.com"
                 />
                 <ContactMethod 
                   icon={Phone} 
                   title="Phone" 
-                  detail="+91-9835381345"
-                  link="tel:+919835381345"
+                  detail="+91-8630181113"
+                  link="tel:+918630181113"
                 />
               </div>
             </div>
@@ -93,11 +93,11 @@ const Contact = () => {
               </h4>
               <div className="flex space-x-4">
                 <SocialLink 
-                  href="https://github.com/aakash-kumar-singh"
+                  href="https://github.com/Aarishshahnawaz"
                   icon={Github}
                 />
                 <SocialLink 
-                  href="https://linkedin.com/in/aakash82"
+                  href="https://www.linkedin.com/in/aarish-shahnawaz-1b7409252//"
                   icon={Linkedin}
                 />
               </div>
