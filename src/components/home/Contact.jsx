@@ -63,7 +63,7 @@ const Contact = () => {
                 Get In Touch
               </h2>
               <p className="text-slate-600 dark:text-slate-300 mb-8">
-                fell to reach out through any of these channels. I'm always eager to discuss new projects and opportunities.
+                ell to reach out through any of these channels. I'm always eager to discuss new projects and opportunities.
               </p>
 
               <div className="space-y-6">
