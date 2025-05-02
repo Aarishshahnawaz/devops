@@ -3,7 +3,7 @@ import { GraduationCap, MapPin, Calendar, BookOpen } from "lucide-react";
 
 const educationData = [
   {
-    degree: "Computer Science and eng ",
+    degree: "Computer Science and enginee ",
     institution: "Lovely Professional University",
     location: "Phagwara, Punjab",
     period: "2022 – 2026",
